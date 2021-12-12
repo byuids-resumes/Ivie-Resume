@@ -46,6 +46,8 @@ __LDS Missionary__, Novosibirsk, Russia
 - Parallel Computing
 - Data Wrangling
 - Neural Networks
+- Object Oriented Programming
+- Functional Programming
 
 ## Languages
 - Python
