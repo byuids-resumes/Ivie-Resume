@@ -26,18 +26,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2020 - September 2020`
 __Aptive Environmental__, Louisville, KY
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- In charge of local service routes for a national pest control company
+- Went door to door inquiring about our services
+- Was given a great deal of autonomy to do my job
 
 ### Scrapper
 
 `April 2027 - June 2027`
 __B&H Drywall__, St. George, UT
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Worked with strict deadlines to make sure homes were ready for inspection
+- worked long hours outside in 100+ degree weather
+- Given a great amount of independence to finish my tasks
 
 `2017 - 2019`
 __LDS Missionary__, Novosibirsk, Russia
